@@ -1,0 +1,17 @@
+{
+  "ModelRenderer": {
+    "label": "모델 출력기",
+    "model": "모델",
+    "searchModelPlaceholder": "모델 찾기",
+    "animation": "애니메이션",
+    "shadow": {
+      "title": "그림자",
+      "cast": "그리기",
+      "receive": "입히기"
+    },
+    "color": "색상",
+    "opacity": "투명도",
+    "material": "재질",
+    "shader": "쉐이더"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "3dView": {
+    "settings": {
+      "title": "설정",
+      "linkShapeToPivot": "쉐입을 피봇에 연결"
+    },
+    "transform": {
+      "title": "변형",
+      "movePivot": "피봇 이동",
+      "moveShape": "쉐입 이동",
+      "rotate": "회전",
+      "stretch": "늘이기",
+      "local": "로컬"
+    },
+    "grid": {
+      "title": "격자",
+      "size": "크기",
+      "visible": "보이기"
+    }
+  },
+  "textureView": {
+    "mode": {
+      "title": "모드",
+      "layout": "레이아웃",
+      "paint": "페인트"
+    },
+    "layoutMode": {
+      "title": "설정",
+      "linkTextureToUV": "텍스쳐를 UV에 연결"
+    },
+    "paintMode": {
+      "tool": "도구",
+      "brush": "붓",
+      "eraser": "지우개",
+      "fill": "채우기",
+      "color": "색상"
+    }
+  },
+  "sidebar": {
+    "settings": {
+      "cubicModel": {
+        "title": "큐빅 모델",
+        "pixelsPerUnit": "단위 당 픽셀수",
+        "texture": "텍스쳐",
+        "download": {
+          "defaultName": "텍스쳐",
+          "prompt": "텍스쳐의 이름을 입력하세요."
+        },
+        "textureSize": "텍스쳐 크기 (px)"
+      }
+    },
+    "nodes": {
+      "title": "노드",
+      "newNode": {
+        "title": "새 노드",
+        "prompt": "노드의 이름을 입력하세요."
+      },
+      "renamePrompt": "노드의 새 이름을 입력하세요.",
+      "duplicatePrompt": "새 노드의 이름을 입력하세요.",
+      "deleteConfirm": "정말로 선택된 노드를 삭제하시겠습니까?",
+      "hide": "숨기기",
+      "show": "보이기"
+    },
+    "inspector": {
+      "position": "위치",
+      "orientation": "방향",
+      "shape": "쉐입",
+      "shapeType": "형태",
+      "shapeOptions": {
+        "box": "상자"
+      },
+      "offset": "오프셋",
+      "size": "크기",
+      "stretch": "늘이기"
+    }
+  }
+}

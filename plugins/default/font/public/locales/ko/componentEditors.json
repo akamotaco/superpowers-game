@@ -1,0 +1,25 @@
+{
+  "TextRenderer": {
+    "label": "글자 출력기",
+    "font": "폰트",
+    "text": "내용",
+    "align": {
+      "title": "정렬",
+      "left": "좌측",
+      "center": "중앙",
+      "right": "우측"
+    },
+    "verticalAlign": {
+      "title": "세로 정렬",
+      "top": "상단",
+      "center": "중간",
+      "bottom": "하단"
+    },
+    "size": "크기",
+    "color": "색상",
+    "opacity": "투명도",
+    "opaque": "불투명",
+    "transparent": "투명"
+
+  }
+}

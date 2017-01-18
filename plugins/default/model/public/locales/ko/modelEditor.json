@@ -1,0 +1,59 @@
+{
+  "status": {
+    "noErrors": "에러 없음",
+    "oneError": "1개의 에러",
+    "severalErrors": "${errors} 에러",
+
+    "line": "선",
+    "type": "형식",
+    "message": "메시지",
+    "file": "파일"
+  },
+
+  "sidebar": {
+    "settings": {
+      "model": "모델",
+      "texture": "텍스쳐",
+      "filtering": {
+        "title": "필터링",
+        "pixelated": "거칠게",
+        "smooth": "부드럽게"
+      },
+      "wrapping": {
+        "title": "랩핑",
+        "clampToEdge": "가장자리에서 자르기",
+        "repeat": "반복",
+        "mirroredRepeat": "반복(반전)"
+      },
+      "showSkeleton": "뼈대 보이기",
+      "unitRatio": "단위 비율",
+      "opacity": {
+        "title": "투명도",
+        "opaque": "불투명",
+        "transparent": "투명"
+        }
+    },
+    "animations": {
+      "title": "애니메이션",
+      "new": {
+        "prompt": "애니메이션 이름을 입력하세요.",
+        "initialValue": "애니메이션"
+      },
+      "renamePrompt": "애니메이션의 새 이름을 입력하세요.",
+      "deleteConfirm": "선택된 애니메이션을 삭제하기 원하십니까?"
+    },
+    "advancedTextures": {
+      "title": "상세 텍스쳐",
+      "map": "맵",
+      "lightMap": "라이트 맵",
+      "specularMap": "스펙큘러 맵",
+      "alphaMap": "알파 맵",
+      "normalMap": "노멀 맵(퐁)",
+      "newMapPrompt": "맵의 새 이름을 입력하세요.",
+      "renameMapPrompt": "텍스쳐의 새 이름을 입력하세요.",
+      "deleteMapConfirm": "선택된 텍스쳐를 삭제하기 원하십니까?",
+      "downloadPrompt": "이미지의 이름을 입력하세요.",
+      "downloadInitialValue": "이미지"
+    }
+  }
+}

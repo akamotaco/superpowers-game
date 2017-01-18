@@ -1,0 +1,18 @@
+{
+  "tileSet": "타일 셋",
+  "texture": {
+    "title": "텍스쳐",
+    "downloadPrompt": "텍스쳐의 이름을 입력하세요",
+    "downloadInitialValue": "타일 셋"
+  },
+  "grid": "격자 (px)",
+  
+  "data": "데이터",
+  "tileID": "타일 ID",
+  
+  "properties": "속성",
+  "newPropertyPrompt": "속성의 이름을 입력하세요.",
+  "newPropertyInitialValue": "속성",
+  "renamePropertyPrompt": "속성의 새 이름을 입력하세요.",
+  "deletePropertyConfirm": "정말로 선택된 속성을 삭제 하시겠습니까?"
+}

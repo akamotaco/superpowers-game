@@ -1,0 +1,19 @@
+{
+  "ArcadeBody2D": {
+    "label": "Arcade 몸체(2D)",
+    "type": "형태",
+    "typeOptions": {
+      "box": "사각형",
+      "tileMap": "타일맵"
+    },
+
+    "movable": "이동 가능",
+    "size": "크기",
+    "offset": "오프셋",
+    "bounce": "바운스",
+
+    "tileMap": "타일맵",
+    "tileSetProperty": "타일셋 속성",
+    "layers": "레이어"
+  }
+}

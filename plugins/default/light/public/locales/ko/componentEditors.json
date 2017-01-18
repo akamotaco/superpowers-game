@@ -1,0 +1,30 @@
+{
+  "Light": {
+    "label": "빛",
+    "type": "형식",
+    "typeOptions": {
+      "ambient": "주변광",
+      "point": "점 광원",
+      "spot": "집중 조명",
+      "directional": "방향성 광원"
+    },
+
+    "color": "색상",
+    "intensity": "강도",
+    "distance": "거리",
+    "angle": "각도",
+    "target": "목표",
+    "castShadow": "그림자 생성",
+    
+    "shadowSettings": {
+      "title": "그림자 설정",
+      "mapSize": "맵 크기",
+      "bias": "바이어스",
+      "darkness": "어둠",
+      "near-far": "근 / 원",
+      "fov": "Fov",
+      "top-bottom": "상 / 하",
+      "left-right": "좌 / 우"
+    }
+  }
+}

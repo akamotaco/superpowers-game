@@ -1,0 +1,23 @@
+{
+  "Camera": {
+    "label": "카메라",
+    "mode": "모드",
+    "modeOptions": {
+      "perspective": "원근법",
+      "orthographic": "정투영"
+    },
+    "fieldOfView": "가시범위",
+    "orthographicScale": "정투영 스케일",
+    "depth": "깊이",
+    "depthTitle": "다중 카메라 사용시 우선순위 설정 사용",
+    "layers": "레이어",
+    "layersTitle": "그려줄 레이어의 우선 순위",
+    "nearPlane": "근거리 평면",
+    "farPlane": "원거리 평면",
+    "viewport": {
+      "title": "뷰포트",
+      "position": "상 / 좌",
+      "size": "너비 / 높이"
+    }
+  }
+}

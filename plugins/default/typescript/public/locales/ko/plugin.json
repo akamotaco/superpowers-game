@@ -1,0 +1,13 @@
+{
+  "editors": {
+    "script": {
+      "title": "스크립트"
+    },
+    "apiBrowser": {
+      "title": "TypeScript API 브라우저"
+    },
+    "search": {
+      "title": "TypeScript 전체 검색"
+    }
+  }
+}

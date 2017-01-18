@@ -1,0 +1,24 @@
+{
+  "applyChanges": "변경 적용",
+  "applyChangesWithErrors": "변경 적용시 에러 발생",
+  "draft": "임시",
+
+  "errors": {
+    "noErrors": "에러 없음",
+    "oneError": "1 개의 에러",
+    "severalErrors": "${errors} 에러",
+
+    "selfErrorsInfo": "이 스크립트에서 ${errors}",
+    "otherErrorsInfo": "다른 스크립트에서 ${errors}",
+    "bothErrorsInfo": "${selfErrors}, ${otherErrors}",
+
+    "line": "줄",
+    "message": "메시지",
+    "script": "스크립트"
+  },
+
+  "globalSearch": {
+    "prompt": "모든 TypeScript 스크립트에서 찾기",
+    "placeholder": "프로젝트에서 찾기"
+  }
+}

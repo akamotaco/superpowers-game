@@ -1,0 +1,30 @@
+{
+  "tileMap": "타일 맵",
+  "tileSet": "타일 셋",
+  "pixelsPerUnit": "단위당 픽셀수",
+  "depthOffset": "깊이 오프셋",
+
+  "size": "크기",
+  "resize": "크기조정",
+  "newWidthPrompt": "맵의 너비를 입력하세요.",
+  "newHeightPrompt": "맵의 높이를 입력하세요.",
+  "move": "이동",
+  "applyOffset": "오프셋 적용",
+  "horizontalOffsetPrompt": "수평 오프셋을 입력하세요.",
+  "verticalOffsetPrompt": "수직 오프셋을 입력하세요.",
+  
+  "tools": "도구",
+  "grid": "격자",
+  "highlight": "하이라이트",
+  
+  "brush": "붓",
+  "fill": "채우기",
+  "selection": "선택",
+  "eraser": "지우개",
+  
+  "layers": "레이어",
+  "newLayerPrompt": "레이어의 이름을 입력하세요.",
+  "newLayerInitialValue": "레이어",
+  "renameLayerPrompt": "레이어의 새 이름을 입력하세요.",
+  "deleteLayerConfirm": "정말로 선택된 레이어를 삭제하시겠습니까?"
+}

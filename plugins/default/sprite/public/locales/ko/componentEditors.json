@@ -1,0 +1,20 @@
+{
+  "SpriteRenderer": {
+    "label": "스프라이트 출력기",
+    "sprite": "스프라이트",
+    "animation": "애니메이션",
+    "animationNone": "(없음)",
+    "flip": "반전",
+    "shadow": {
+      "title": "그림자",
+      "cast": "그리기",
+      "receive": "입히기"
+    },
+    "color": "색상",
+    "opacity": "투명도",
+    "transparent": "투명",
+    "opaque": "불투명",
+    "material": "재질",
+    "shader": "쉐이더"
+  }
+}

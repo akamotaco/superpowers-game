@@ -1,0 +1,11 @@
+{
+  "Sprite": {
+    "label": "스프라이트",
+    "filtering": "필터링",
+    "pixelated": "거칠게",
+    "smooth": "부드럽게",
+    "framesPerSecond": "초당 프레임수",
+    "pixelsPerUnit": "단위당 픽셀수",
+    "alphaTesting": "알파 테스팅"
+  }
+}

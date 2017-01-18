@@ -1,0 +1,22 @@
+{
+  "CannonBody": {
+    "label": "Cannon 몸체",
+    "mass": "질량",
+    "fixedRotation": "회전 고정",
+    "group": "그룹",
+    "mask": "마스크",
+    "shape": "모양",
+    "shapeType": "형태",
+    "shapeOptions": {
+      "box": "박스",
+      "sphere": "구형",
+      "cylinder": "원기둥"
+    },
+    "positionOffset": "위치 조정",
+    "orientationOffset": "방향 조정",
+    "halfSize": "크기의 반절",
+    "radius": "반경",
+    "height": "높이",
+    "segments": "세그먼트"
+  }
+}

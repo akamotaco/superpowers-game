@@ -1,0 +1,7 @@
+{
+  "Scene": {
+    "label": "장면",
+    "defaultCameraMode": "기본 카메라 방식",
+    "defaultCameraVerticalAxis": "기본 카메라 수직 축"
+  }
+}

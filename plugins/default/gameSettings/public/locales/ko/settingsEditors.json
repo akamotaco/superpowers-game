@@ -1,0 +1,12 @@
+{
+  "Game": {
+    "label": "게임",
+    "startupScene": "시작 장면",
+    "framesPerSecond": "초당 프레임수",
+    "screenRatio": "화면 비율",
+    "width": "가로",
+    "height": "세로",
+    "layers": "레이어",
+    "newLayer": "새 레이어..."
+  }
+}

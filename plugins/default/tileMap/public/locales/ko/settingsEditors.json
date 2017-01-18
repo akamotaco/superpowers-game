@@ -1,0 +1,10 @@
+{
+  "TileMap": {
+    "label": "타일 맵",
+    "pixelsPerUnit": "단위당 픽셀수",
+    "defaultWidth": "기본 너비",
+    "defaultHeight": "기본 높이",
+    "depthOffset": "깊이 오프셋",
+    "tileSetGridSize": "타일 셋 격자 크기"
+  }
+}

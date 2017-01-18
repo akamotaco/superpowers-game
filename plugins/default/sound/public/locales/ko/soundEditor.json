@@ -1,0 +1,17 @@
+{
+  "sidebar": {
+    "settings": {
+      "sound": {
+        "title": "소리",
+        "file": {
+          "title": "파일",
+          "download": {
+            "defaultName": "Sound.wav",
+            "prompt": "사운드의 이름을 입력하세요."
+          }
+        },
+        "streaming": "스트리밍"
+      }
+    }
+  }
+}

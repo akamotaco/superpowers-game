@@ -1,0 +1,12 @@
+{
+  "game": {
+    "title": "HTML5 내보내기",
+    "progress": "내보내는 중: ${path}... (${index}/${total})",
+    "doneWithErrors": "${total} 요소들을 ${path}로 내보내는 중에 ${errors} 에러 발생.",
+    "done": "${total} 요소들을 ${path}로 내보내기 성공.",
+
+    "errors": {
+      "exportFailed": "${path}로 내보내기 실패."
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Project": {
+    "label": "프로젝트",
+    "deleteTrashedAssetsFromDisk": "버려진 에셋들을 디스크에서 제거하기",
+    "noFoldersRemoved": "아무 폴더도 제거되지 않았습니다",
+    "oneFolderRemoved": "1개의 폴더가 제거되었습니다",
+    "severalFoldersRemoved": "${folders} 폴더가 제거되었습니다"
+  }
+}

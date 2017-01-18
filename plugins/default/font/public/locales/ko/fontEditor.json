@@ -1,0 +1,29 @@
+{
+  "type": "폰트 형식",
+  "typeOptions": {
+    "bitmap": "비트맵",
+    "vector": "벡터 폰트"
+  },
+  "font": {
+    "title": "폰트",
+    "download": {
+      "prompt": "폰트의 이름을 입력하세요",
+      "defaultName": "폰트"
+    }
+  },
+  "texture": "텍스쳐",
+  "rendering": "렌더링",
+  "filtering": "필터링",
+  "pixelated": "거칠게",
+  "smooth": "부드럽게",
+  "pixelsPerUnit": "단위 당 픽셀",
+  "color": "색상",
+  "opacity": "투명도",
+  "opaque": "불투명",
+  "transparent": "투명",
+  "settings": "설정",
+  "size": "크기 (픽셀)",
+  "gridSize": "격자 크기",
+  "charset": "문자셋",
+  "charsetOffset": "문자셋 조정"
+}

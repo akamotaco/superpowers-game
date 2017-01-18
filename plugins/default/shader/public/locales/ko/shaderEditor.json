@@ -1,0 +1,18 @@
+{
+  "uniforms": "유니폼",
+  "newUniform": "새 유니폼",
+  "attributes": "속성",
+  "newAttribute": "새 속성",
+  "name": "이름",
+  "type": "형식",
+  "value": "값",
+  "useLights": "빛 사용",
+  "preview": "미리보기",
+  "plane": "평면",
+  "box" : "상자",
+  "sphere": "구체",
+  "asset": "에셋",
+  "assetPath": "에셋 위치",
+  "vertexShader": "버텍스 쉐이더",
+  "fragmentShader": "프래그먼트 쉐이더"
+}

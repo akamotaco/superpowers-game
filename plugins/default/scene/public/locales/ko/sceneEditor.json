@@ -1,0 +1,79 @@
+{
+  "controls": {
+    "camera": {
+      "title": "카메라",
+      "mode": "모드",
+      "verticalAxis": "윗방향 축",
+      "speed": "속도"
+    },
+    "transform": {
+      "title": "변형",
+      "move": "이동",
+      "rotate": "회전",
+      "scale": "비율",
+      "local": "로컬"
+    },
+    "grid": {
+      "title": "격자",
+      "size": "크기",
+      "visible": "보이기"
+    },
+    "light": {
+      "title": "빛"
+    }
+  },
+  "treeView": {
+    "newActor": {
+      "title": "새 액터",
+      "prompt": "액터의 이름을 입력하세요.",
+      "initialValue": "액터"
+    },
+    "newPrefab": {
+      "title": "새 프리팹",
+      "prompt": "프리팹의 이름을 입력하세요.",
+      "initialValue": "프리팹"
+    },
+    "renamePrompt": "액터의 새 이름을 입력하세요.",
+    "duplicatePrompt": "새 액터의 이름을 입력하세요.",
+    "deleteConfirm": "정말로 선택한 액터를 삭제하시겠습니까?",
+    "visible": {
+      "show": "보이기",
+      "hide": "숨기기"
+    }
+  },
+  "inspector": {
+    "position": "위치",
+    "orientation": "방향",
+    "scale": "비율",
+    "visible": "보이기",
+    "layer": "레이어",
+    "prefab": "프리팹",
+    "newComponent":{
+      "title": "새 구성요소",
+      "select": "새 구성요소의 형식을 고르세요.",
+      "validate": "생성"
+    },
+    "deleteComponent": {
+      "confirm": "정말로 이 구성요소를 삭제하시겠습니까?",
+      "validate": "삭제"
+    }
+  },
+  "dropActor": "액터를 생성하려면 여기에 에셋을 놓으세요.",
+  "dropComponent": "구성요소를 생성하려면 여기에 에셋을 놓으세요.",
+  "failures": {
+    "newActor": "다음의 이유로 새 액터를 생성할 수 없습니다: ${reason}",
+    "importIntoScene": "다음의 이유로 불러올 수 없습니다: ${reason}"
+  },
+  "errors": {
+    "invalidActorId": "잘못된 액터 id: ${id}.",
+    "cantImportAssetTypeIntoScene": "이 형식의 에셋은 이 장면에 불러올 수 없습니다.",
+    "prefab": {
+      "mustHaveSingleRootActor": "프리팹으로 사용하기 위해서는 반드시 하나의 장면에 그 기반이 되는 액터를 하나만 가지고 있어야 합니다.",
+      "cantUseSelf": "한 장면은 자기자신의 프리팹으로 사용될 수 없습니다.",
+      "cyclicalReference": "이 장면을 프리팹으로 사용하는 것은 무한반복을 야기할 수 있습니다."
+    },
+    "script": {
+      "noBehaviorsFound": "이 스크립트에서는 그 어떤 행동 요소도 발견할 수 없었습니다."
+    }
+  }
+}

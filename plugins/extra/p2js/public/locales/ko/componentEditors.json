@@ -1,0 +1,16 @@
+{
+  "P2Body": {
+    "label": "P2 몸체",
+    "mass": "질량",
+    "fixedRotation": "회전 고정",
+    "offset": "오프셋",
+    "angle": "각도",
+    "shape": "모양",
+    "shapeOptions": {
+      "box": "사각형",
+      "circle": "원"
+    },
+    "size": "크기",
+    "radius": "반경"
+  }
+}

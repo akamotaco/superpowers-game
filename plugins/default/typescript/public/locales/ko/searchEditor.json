@@ -1,0 +1,13 @@
+{
+  "searchPlaceholder": "프로젝트에서 찾기",
+  "matchCase": "검색 조건",
+
+  "noResults": "아무 결과도 찾지 못했습니다",
+  "resultInfo": "${files}에서 ${results}를(을) 찾았습니다",
+  "fileInfo": "\"${fileName}\"의 ${results}를(을) 찾았습니다",
+
+  "oneResult": "1 개의 결과",
+  "severalResults": "${results} 결과",
+  "oneFile": "1 개의 파일",
+  "severalFiles": "${files} 파일"
+}

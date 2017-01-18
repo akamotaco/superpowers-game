@@ -1,0 +1,77 @@
+{
+  "preview": {
+    "playback": "재생",
+    "loop": "반복"
+  },
+  "sidebar": {
+    "settings": {
+      "sprite": {
+        "title": "스프라이트",
+        "texture": {
+          "title": "텍스쳐",
+          "size": "텍스쳐 크기 (px)",
+          "download": {
+            "prompt": "이미지의 이름을 입력하세요.",
+            "defaultName": "이미지"
+          }
+        },
+        "grid": {
+          "size": "격자 크기",
+          "setup": "설정",
+          "widthPrompt": "가로 줄에 있는 프레임의 수는?",
+          "setWidth": "격자의 너비를 설정",
+          "heightPrompt": "세로 줄에 있는 프레임의 수는?",
+          "setHeight": "격자의 높이를 설정"
+        },
+        "origin": "원점 (%)"
+      },
+      "rendering": {
+        "title": "렌더링",
+        "pixelsPerUnit": "단위당 픽셀수",
+        "filtering": {
+          "title": "필터링",
+          "pixelated": "거칠게",
+          "smooth": "부드럽게"
+        },
+        "wrapping": {
+          "title": "래핑",
+          "clampToEdge": "가장자리에서 자르기",
+          "repeat": "반복",
+          "mirroredRepeat": "반복(반전)"
+        },
+        "opacity": {
+          "title": "투명도",
+          "opaque": "불투명",
+          "transparent": "투명"
+        },
+        "alphaTest": "알파 테스트"
+      },
+      "animation": {
+         "title": "애니메이션",
+         "framesPerSecond": "초당 프레임수",
+         "frameOrder": {
+           "title": "프레임 우선순위",
+           "rows": "가로",
+           "columns": "세로"
+         }
+      }
+    },
+    "animations": {
+      "title": "애니메이션",
+      "newAnimationPrompt": "애니메이션 이름을 입력하세요.",
+      "renameAnimationPrompt": "애니메이션의 새 이름을 입력하세요.",
+      "deleteAnimationPrompt": "정말로 선택한 애니메이션을 삭제하시겠습니까?"
+    },
+    "advancedTextures": {
+      "title": "텍스쳐(세부)",
+      "map": "맵",
+      "lightMap": "라이트 맵",
+      "specularMap": "스펙큘라 맵",
+      "alphaMap": "알파 맵",
+      "normalMap": "노멀 맵(퐁)",
+      "newMapPrompt": "맵의 새 이름을 입력하세요.",
+      "renameMapPrompt": "텍스쳐의 새 이름을 입력하세요.",
+      "deleteMapPrompt": "정말로 선택된 텍스쳐를 삭제하겠습니까?"
+    }
+  }
+}

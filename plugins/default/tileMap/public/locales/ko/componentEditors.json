@@ -1,0 +1,14 @@
+{
+  "TileMapRenderer": {
+    "label": "타일 맵 출력기",
+    "tileMap": "타일 맵",
+    "tileSet": "타일 셋",
+    "shadow": {
+      "title": "그림자",
+      "cast": "그리기",
+      "receive": "입히기"
+    },
+    "material": "재질",
+    "shader": "쉐이더"
+  }
+}
